@@ -39,7 +39,7 @@ Screenshots of the Game.
 ## Project Structure
 
 ```text
-NumberGuessingGame/
+JavaDev-Task2-NumberGuessingGame/
 │
 ├── screenshots/
 │   ├── 1-gameplay.png
