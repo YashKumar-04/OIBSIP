@@ -74,6 +74,7 @@ ATM-Interface/
 │   ├── 7-transaction-history.png
 │   └── 8-Quit.png
 │
+└──.gitignore
 └── README.md
 ```
 ## Demo Credentials
